@@ -11,7 +11,7 @@ components:{
 
 </pre>
 
-<pre><a class="btn" data-clipboard-snippet="" data-toggle="popover" data-placement="bottom" data-original-title="" title="">复制代码</a><code class="hljs ruby">&lt;fy-poster <span class="hljs-symbol">:poster-picUrl=<span class="hljs-string">"picUrl"</span></span> <span class="hljs-symbol">:poster-bgImageURL=<span class="hljs-string">"bgImageURL"</span>&gt;&lt;/fy-poster&gt;</span></code></pre>
+<pre><a class="btn" data-clipboard-snippet="" data-toggle="popover" data-placement="bottom" data-original-title="" title=""></a><code class="hljs ruby">&lt;fy-poster <span class="hljs-symbol">:poster-picUrl=<span class="hljs-string">"picUrl"</span></span> <span class="hljs-symbol">:poster-bgImageURL=<span class="hljs-string">"bgImageURL"</span>&gt;&lt;/fy-poster&gt;</span></code></pre>
 
 
 picUrl:上传的图片
